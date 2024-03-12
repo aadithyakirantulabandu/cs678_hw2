@@ -1,0 +1,9 @@
+name: scholar
+type: 
+version: 
+description: 
+target_tasks: 
+prompt_template: 
+llm: 
+plugins: 
+memory: 
